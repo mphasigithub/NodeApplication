@@ -1,0 +1,24 @@
+
+[
+	{
+		"userid": "USR00001",
+		"name": "Guru Govind",
+		"profilePicture": "./images/Jaipal-photo1.jpg",
+		"statusMessage": "We become what we think about!",
+		"presence": 2
+	},
+	{
+		"userid": "USR00003",
+		"name": "Deepali Shah",
+		"profilePicture": "https://preview.redd.it/hlxen8gtwpm01.jpg?width=640&crop=smart&auto=webp&v=enabled&s=a3c43bcbfc1db31d542ef67071559264358b3d2b",
+		"statusMessage": "A positive mindset brings positivethings.",
+		"presence": 3
+	},
+	{
+		"userid": "USR00004",
+		"name": "Amit Yadav",
+		"profilePicture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/6a3f5237411193.573f25019c8bf.jpg",
+		"statusMessage": "One small positive thought can change your whole day",
+		"presence": 1
+	}
+]
